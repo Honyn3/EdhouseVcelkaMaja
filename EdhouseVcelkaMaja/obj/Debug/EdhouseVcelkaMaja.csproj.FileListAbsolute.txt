@@ -1,0 +1,8 @@
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\bin\Debug\EdhouseVcelkaMaja.exe.config
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\bin\Debug\EdhouseVcelkaMaja.exe
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\bin\Debug\EdhouseVcelkaMaja.pdb
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\obj\Debug\EdhouseVcelkaMaja.csproj.AssemblyReference.cache
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\obj\Debug\EdhouseVcelkaMaja.csproj.SuggestedBindingRedirects.cache
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\obj\Debug\EdhouseVcelkaMaja.csproj.CoreCompileInputs.cache
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\obj\Debug\EdhouseVcelkaMaja.exe
+C:\Programování\EdhouseVcelkaMaja\EdhouseVcelkaMaja\obj\Debug\EdhouseVcelkaMaja.pdb
