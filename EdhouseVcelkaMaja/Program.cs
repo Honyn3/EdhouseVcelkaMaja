@@ -184,6 +184,7 @@ namespace EdhouseVcelkaMaja
                     }
                 }
             }
+            Console.ForegroundColor= ConsoleColor.White;
             Console.WriteLine("Je viditelných " + visibleCount + " stromů");
         }
     }
